@@ -1,0 +1,1 @@
+A simple style guide website project as part of the Full Stack Engineer career path from Codecademy.
