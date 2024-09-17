@@ -1,57 +1,43 @@
 /* Font styles */
 
-.headline {
-  font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
+h1 {
+  font-family: "Roboto", sans-serif;
   font-size: 48px;
   font-weight: 900;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
   line-height: 1.5em;
-}
-
-.title {
-    font-family: "Noto Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-size: 32px;
-    font-weight: 700;
-    font-style: normal;
-    font-variation-settings:
-      "wdth" 100;
-    line-height: 1.2em;
   }
 
-  .subtitle {
-    font-family: "Noto Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-size: 24px;
-    font-weight: 500;
-    font-style: italic;
-    font-variation-settings:
-      "wdth" 100;
-    line-height: 1em;
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.2em;
   }
 
-  .body {
-    font-family: "Noto Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-size: 12px;
-    font-weight: 300;
-    font-style: normal;
-    font-variation-settings:
-      "wdth" 100;
-    line-height: 1em;
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  font-style: italic;
+  line-height: 1em;
+  }
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 1em;
   }
 
 .label {
-    font-family: "Noto Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-size: 10px;
-    font-weight: 100;
-    font-style: normal;
-    font-variation-settings:
-      "wdth" 100;
-    line-height: 1em;
+  font-family: "Roboto", sans-serif;
+  font-size: 10px;
+  font-weight: 100;
+  font-style: normal;
+  line-height: 1em;
   }
+
 /* Add styles here */
